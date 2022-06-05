@@ -192,7 +192,7 @@ public class BigProject extends JFrame {
 
 //    TODO: the similar methods if the user chose "lemma" or "POStag"
 
-//    TODO: save @output to XML file from Moodle
+//    TODO: save @output to XML file from Moodle.
 
     //    main method to run the program
     public static void main(String[] args) {
